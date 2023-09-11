@@ -1,3 +1,3 @@
 # getoPetFront
 
-https://tamireshc.github.io/getoPetFront/
+https://tamireshc.github.io/geoPetFront/
